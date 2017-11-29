@@ -1,0 +1,20 @@
+Configuração do Banco de Dados:
+
+1. Abrir o arquivo "credenciais.php", presente na pasta "C:\...\Trabalho3PHP\banco".
+
+2. Alterar as credenciais de acesso como indicado no próprio arquivo, de acordo com o localhost.
+
+3. Abrir o browser e colocar o endereço: http://localhost/Trabalho3PHP/banco/banco.php
+
+4. O banco será criado e a aplicação pode ser utilizada normalmente em: http://localhost/Trabalho3PHP/login.php
+
+Acesso gerente:
+login: admin
+senha: admin
+
+
+Integrantes do Grupo:
+Daniel Rodrigues De Biasi - 169507
+Gustavo Trigoli Santos - 149210
+Ricardo Hideki Adati Tomomitsu - 186610
+Roberth Riyu Tamayose - 186676
